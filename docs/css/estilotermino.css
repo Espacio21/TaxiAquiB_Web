@@ -1,0 +1,243 @@
+body{
+	margin: 0;
+}
+<<<<<<< HEAD
+
+=======
+>>>>>>> 3438822 (Update privacidad.html)
+.fondo{
+	top: 0px;
+	position: relative;
+}
+.fondo::before{
+	content: '';
+<<<<<<< HEAD
+	background-image: linear-gradient(to bottom,rgba(242,246,252,0.3),rgba(20, 189, 138, 0.3)),url("..//images/fondo.jpg");
+=======
+	background-image: url("..//images/fondo.jpg");
+>>>>>>> 3438822 (Update privacidad.html)
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	position: absolute;
+	margin: 0;
+	height: 100%;
+	width: 100%;
+<<<<<<< HEAD
+	opacity: 0.5;
+	
+=======
+	opacity: 0.3;
+}
+.degrado{
+	top: 0px;
+	position: relative;
+}
+.degrado{
+	content: '';
+	background: linear-gradient(65deg,#040114,#021527);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	position: absolute;
+	margin: 0;
+	width: 100%;
+	min-height: 100vh;
+>>>>>>> 3438822 (Update privacidad.html)
+}
+
+/*.fondo{
+position: relative;
+top: 0px;
+left: 0px;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+>>>>>>> 3438822 (Update privacidad.html)
+=======
+=======
+
+>>>>>>> 9055ccc (fondo añadido en terminos de privacidad)
+>>>>>>> 5889c3d (fondo añadido en terminos de privacidad)
+.fondo::before{
+	content: "";
+	margin: 0px;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+    background-image: url("..//images/fondo.jpg");
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-color: seagreen;
+	opacity: 0.5;
+}*/
+
+/*.fondito::before {
+	content: "";
+	background-size: cover;
+	background: seagreen;
+	background-attachment: fixed;
+	background-image: url("..//images/fondo.jpg");
+	position: absolute;
+	background-repeat: no-repeat;
+	background-position: center;	
+	top: 0;
+	height: 100%;
+	width: 100%;
+	opacity: 0.5;
+	
+  }*/
+  
+
+/*#fffff0*/
+p{
+	text-align: center;
+	top: 10px;
+	left: 10px;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#titulo{
+	text-align: center;
+<<<<<<< HEAD
+	position: relative;
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	position: relative;
+=======
+>>>>>>> b9a710d (contenedor arreglado)
+=======
+	position: relative;
+>>>>>>> 9055ccc (fondo añadido en terminos de privacidad)
+>>>>>>> 5889c3d (fondo añadido en terminos de privacidad)
+}
+
+footer {
+	background-color: #001a1a;
+    padding: 20px 0;
+    color: #9fa5af;
+<<<<<<< HEAD
+	position: relative;
+}
+
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+	position: relative;
+}
+
+=======
+}
+
+footer h5 {
+	color: #f4f6f7;
+	text-transform: uppercase;
+	letter-spacing: .1em;
+	margin-bottom: 20px;
+}
+
+footer p {
+	font-size: 12px;
+	font-weight: 300;
+	color: #62656a;
+	text-align: center;
+	padding: 0px;
+}
+
+footer li {
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: .05em;
+	line-height: 1.5;
+	margin-bottom: 10px;
+}
+
+footer a {
+	color: #62656a;
+}
+
+footer a:hover {
+	color: #0095f7;
+	text-decoration: none;
+}
+
+footer i {
+	font-size: 25px;
+	color: #62656a;
+	margin-right: 10px;
+}
+
+footer i:hover {
+	color: #0095f7;
+}
+
+footer small {
+	color: #62656a;
+	float: right;
+}
+
+.external-links {
+	color: #5acefc;
+	/*color: #0095f7;*/
+}
+>>>>>>> b9a710d (contenedor arreglado)
+=======
+	position: relative;
+}
+
+>>>>>>> 9055ccc (fondo añadido en terminos de privacidad)
+>>>>>>> 5889c3d (fondo añadido en terminos de privacidad)
+.bordeado{
+	margin-bottom: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+	border-radius: 15px;
+	padding: 20px 25px; 
+	border: 1px solid #888;
+	background-color:rgba(255, 255, 240, 0.8);
+<<<<<<< HEAD
+<<<<<<< HEAD
+	position: relative;
+	}
+		
+.bordeado2{
+	text-align: center;
+	padding: 5px 5px; 
+	position: relative;
+	color: seashell;
+<<<<<<< HEAD
+<<<<<<< HEAD
+	}
+	
+=======
+	}
+>>>>>>> 3438822 (Update privacidad.html)
+=======
+	}
+=======
+	}
+		
+	
+	
+>>>>>>> b9a710d (contenedor arreglado)
+<<<<<<< HEAD
+>>>>>>> 75de838 (contenedor arreglado)
+=======
+=======
+	position: relative;
+	}
+		
+.bordeado2{
+	text-align: center;
+	padding: 5px 5px; 
+	position: relative;
+	color: seashell;
+	}
+	
+>>>>>>> 9055ccc (fondo añadido en terminos de privacidad)
+>>>>>>> 5889c3d (fondo añadido en terminos de privacidad)
